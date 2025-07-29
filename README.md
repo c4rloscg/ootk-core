@@ -4,21 +4,6 @@
 [![Issues](https://img.shields.io/github/issues/thkruz/ootk-core?style=flat-square)](https://github.com/thkruz/ootk-core/issues)
 [![License](https://img.shields.io/github/license/thkruz/ootk-core?style=flat-square)](LICENSE.md)
 
-## ⚠️ ARCHIVE NOTICE ⚠️
-
-**This repository has been archived and is now read-only.**
-
-This library was originally split from the main [ootk](https://github.com/thkruz/ootk) project to support a specific project that is no longer being worked on. Maintaining two separate libraries has created a substantial amount of work, making it difficult to properly support both libraries alongside my own projects. Going forward, all functionality is being consolidated back into the main [ootk](https://github.com/thkruz/ootk) library under the AGPL license.
-
-**What this means for you:**
-
-- You can continue using this version under the MIT license
-- No updates or support will be provided for this repository
-- Known issues have already been fixed in the main ootk library
-- For maximum functionality and ongoing support, transition to [ootk](https://github.com/thkruz/ootk)
-
-This consolidation will allow me to support one library properly instead of two libraries poorly.
-
 > An Orbital Object Toolkit in Your Web Browser
 
 **ootk-core** is the core libraries of [ootk](https://github.com/thkruz/ootk) for doing math related to orbital objects
